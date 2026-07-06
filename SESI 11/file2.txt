@@ -1,0 +1,3 @@
+Ini isi file kedua.
+Menggabungkan dua file teks.
+Selamat mencoba!
